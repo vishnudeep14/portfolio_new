@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImPointRight } from "react-icons/im";
+
 
 function AboutCard() {
   return (
@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Vishnudeep M R </span>
             from <span className="purple"> Bangalore, India.</span>
             <br />
-            I am currently employed as an IT developer at Hewlett packard Enterprises(HPE)
+            I am currently employed as an IT developer at Hewlett Packard Enterprises (HPE)
             <br />
             I'm a B.Tech Computer Science Engineer Graduate from PES UNIVERSITY Bangalore
             <br />
